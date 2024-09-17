@@ -28,6 +28,7 @@ My personal interests include: marine biology, current events and reading, fishi
 ## 🗃️ Analytics
 
 <a href="https://github.com/papezjustin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=papezjustin&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged&hide=stars,contribs"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=papezjustin&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged&hide=stars,contribs"/>
+  <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=papezjustin&hide_progress=true"/>
 </a>
